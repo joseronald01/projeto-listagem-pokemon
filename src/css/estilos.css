@@ -56,7 +56,7 @@ main{
 }
 
 main .cartao-pokemon:hover{
-    background-color: #000000;
+    background-color: #57bad8;
 }
 .modo-escuro .cartao-hover{
     background-color: #a8a8a8;
